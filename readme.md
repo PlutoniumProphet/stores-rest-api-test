@@ -1,5 +1,5 @@
-# Stores REST Api
+# Stores REST Api test
 
-This is built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
+Small app with API built with Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy for testing purposes. 
 
-Deployed on Heroku.
+For use with 'Automated Software Testing in Python' Udemy course by Jose Salvatierra. 
