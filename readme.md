@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.com/PlutoniumProphet/stores-rest-api-test.svg?branch=master)](https://travis-ci.com/PlutoniumProphet/stores-rest-api-test)
+[![Build Status](https://travis-ci.com/PlutoniumProphet/stores-rest-api-test.svg?branch=master)](https://travis-ci.com/PlutoniumProphet/stores-rest-api-test) Travis CI
+
+![Python package](https://github.com/PlutoniumProphet/stores-rest-api-test/workflows/Python%20package/badge.svg) Github Actions
 
 # Stores REST Api test
 
